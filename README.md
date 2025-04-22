@@ -5,7 +5,7 @@
 - 📫 How to reach me marasarr813@gmail.com 
 - 😄 Pronouns: Mara
 - ⚡ Fun fact: lucky you 
-
+@microsoft-github-policy-service agree company="Mansar Global Solutions"
 <!---# Afredeal V2 🇸🇳  
 **Plateforme e-commerce open source pour l'Afrique de l'Ouest**  
 *by Mansar Global Solutions (Dakar, Sénégal)*  
